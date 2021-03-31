@@ -1,0 +1,11 @@
+﻿
+@using Kentico.Forms.Web.Mvc
+@using Widgets.Components
+
+@model CustomDropDownComponent
+
+@{
+    var htmlAttributes = ViewData.GetEditorHtmlAttributes();
+}
+
+@Html.DropDownListFor(x => x.SelectedValue, Model.Items, null, htmlAttributes)

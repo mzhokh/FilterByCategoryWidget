@@ -1,0 +1,26 @@
+﻿@using Kentico.PageBuilder.Web.Mvc
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    @Html.Kentico().PageBuilderStyles()
+
+</head>
+<body>
+    <div class="container body-content">
+
+        @RenderBody()
+
+        <hr />
+        <footer>
+        </footer>
+    </div>
+    @Html.Kentico().PageBuilderScripts()
+    @RenderSection("Scripts", false)
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+    <script src="~/Scripts/site.js"></script>
+</body>
+</html>

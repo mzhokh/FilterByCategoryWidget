@@ -1,0 +1,13 @@
+﻿@using Kentico.PageBuilder.Web.Mvc
+@using Kentico.Web.Mvc
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>Welcome</h1>
+<p>Here you can filter cards by category!</p>
+
+<div>
+        @Html.Kentico().EditableArea("main")
+</div>

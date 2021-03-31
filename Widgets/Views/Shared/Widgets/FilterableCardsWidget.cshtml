@@ -1,0 +1,30 @@
+﻿@model Widgets.Models.FilterableCardViewModel
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="btn-group-isotope isotope-filters isotope-filters-horizontal">
+            @foreach (var item in Model.Cards)
+            {
+                <button class="btn @Model.ButtonClass ml-3" data-isotope-group="gallery" data-isotope-filter="@item.Key">@item.Key</button>
+            }
+        </div>
+    </div>
+</div>
+<div class="isotope isotope-no-gutter mt-3 cobbles-gallery isotope--loaded" data-isotope-group="gallery" data-isotope-layout="masonry" data-photo-swipe-gallery="gallery">
+    @foreach (var item in Model.Cards)
+    {
+        foreach (var image in item.Value)
+        {
+            <div class="thumbnail-gallery isotope-item @Model.ImageClass" data-filter="@item.Key">
+                <a data-photo-swipe-item href="@image">
+                    <img alt="" src="@image" width="100" height="100">
+                </a>
+                <div class="caption">
+                    <div class="caption-wrapper">
+                        &nbsp;
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

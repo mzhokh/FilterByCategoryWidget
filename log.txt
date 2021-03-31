@@ -1,0 +1,1406 @@
+[2021-03-02 12:54:20] Initializing hotfix...
+[2021-03-02 12:54:25] Testing DB connection.
+[2021-03-02 12:54:26] Copying files...
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\CMSModules\Content\UI\Grids\CMS_PageTemplateConfiguration\default.xml
+[2021-03-02 12:54:26] CMS\CMS\App_Data\CMSModules\Content\UI
+[2021-03-02 12:54:26] CMS\CMS\App_Data\CMSModules\Content
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\CMSModules\DataProtection\UI\Grids\CMS_ConsentAgreement\list.xml
+[2021-03-02 12:54:26] CMS\CMS\App_Data\CMSModules\DataProtection\UI
+[2021-03-02 12:54:26] CMS\CMS\App_Data\CMSModules\DataProtection
+[2021-03-02 12:54:26] CMS\CMS\App_Data\CMSModules
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Install
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Install\SQL.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\BlankSite
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\BlankSite\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\BlankSiteASPX
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\BlankSiteASPX\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\BlankSiteMvc
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\BlankSiteMvc\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\CorporateSite
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\CorporateSite\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\DancingGoat
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\DancingGoat\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\ECommerceSite
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\ECommerceSite\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates\IntranetPortal
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Data\Templates\IntranetPortal\Template.zip
+[2021-03-02 12:54:26] CMS\CMS\App_Data\Templates
+[2021-03-02 12:54:26] CMS\CMS\App_Data
+[2021-03-02 12:54:26] CMS\CMS\App_Themes\Default\Bootstrap
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\Bootstrap\alerts.less
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\Bootstrap\forms.less
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\Bootstrap\mixins.less
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\Bootstrap\type.less
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\Bootstrap\variables.less
+[2021-03-02 12:54:26] CMS\CMS\App_Themes\Default\CMSComponents
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\CMSComponents\advanced-inputs.less
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\CMSComponents\form-builder.less
+[2021-03-02 12:54:26] C:\Projects\Widgets\CMS\App_Themes\Default\CMSComponents\header-actions.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSComponents\portal-engine.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSComponents\uni-flat-selector.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default\CMSModules\cms.abtests
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.abtests\cms.abtests.conversiondesigner.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default\CMSModules\cms.content
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.content\cms.content.alternativeurls.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.content\cms.content.pagebuilder.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.content\cms.content.pages.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.content\cms.content.templateselection.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default\CMSModules\cms.emailmarketing
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.emailmarketing\cms.emailmarketing.emailbuilder.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default\CMSModules\cms.onlinemarketing
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.onlinemarketing\cms.onlinemarketing.abtestpopup.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default\CMSModules
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.abtests.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.content.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.messages.less
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSModules\cms.onlinemarketing.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default\Images
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\Images\background.png
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\Images\Images.zip
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Default
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\bootstrap.css
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\CMSDesk.css
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\DesignMode.css
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Default\DesignMode.less
+[2021-03-02 12:54:27] CMS\CMS\App_Themes\Design
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\App_Themes\Design\UniGraph.css
+[2021-03-02 12:54:27] CMS\CMS\App_Themes
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls\CKeditor\plugins\CMSPlugins
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSAdminControls\CKeditor\plugins\CMSPlugins\plugin.js
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls\CKeditor\plugins
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls\CKeditor
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls\UI\Macros
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSAdminControls\UI\Macros\MacroDesigner.ascx.cs
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSAdminControls\UI\Macros\MacroRuleDesigner.ascx.cs
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls\UI\UniSelector
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSAdminControls\UI\UniSelector\DialogItemList.xml
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls\UI
+[2021-03-02 12:54:27] CMS\CMS\CMSAdminControls
+[2021-03-02 12:54:27] CMS\CMS\CMSFormControls\Macros
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSFormControls\Macros\ConditionBuilder.ascx.cs
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSFormControls\Macros\ConditionBuilder.aspx.cs
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSFormControls\Macros\MacroEditor.ascx.cs
+[2021-03-02 12:54:27] CMS\CMS\CMSFormControls\System
+[2021-03-02 12:54:27] C:\Projects\Widgets\CMS\CMSFormControls\System\OptionsSelector.ascx.cs
+[2021-03-02 12:54:27] CMS\CMS\CMSFormControls
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\Activities\Controls\UI\ActivityDetails\BizFormDetails.aspx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\Activities\Controls\UI\ActivityDetails\BizFormDetails.aspx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\Activities\Controls\UI\ActivityDetails\BizFormDetails.aspx.designer.cs
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\Activities\Controls\UI
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\Activities\Controls
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\Activities
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\Class\FieldEditor\ControlSettings.ascx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\Class\FieldEditor\DatabaseConfiguration.ascx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\Class\FormBuilder\FormBuilder.ascx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\Class\FormBuilder\FormBuilder.js
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\AdminControls\Controls\Class
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\Class\ClassSites.ascx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\Class\NewClassWizard.ascx.cs
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\AdminControls\Controls\UIControls
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\AdminControls\Controls\UIControls\GeneralSelector.ascx.cs
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\AdminControls\Controls
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\AdminControls
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\BizForms\FormControls
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\FormControls\FormFieldSelector.ascx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\FormControls\FormFieldSelector.ascx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\FormControls\SelectBizForm.ascx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\FormControls\SelectBizForm.ascx.cs
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\BizForms\Tools
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_EditRecordMVC.aspx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_EditRecordMVC.aspx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_EditRecordMVC.aspx.designer.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_FormBuilder.aspx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_FormBuilderMVC.aspx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_General.aspx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_General.aspx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_General.aspx.designer.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_NotificationEmail.aspx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_NotificationEmail.aspx.cs
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\BizForms\Tools\BizForm_Edit_NotificationEmail.aspx.designer.cs
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\BizForms
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\ContactManagement\Controls\UI\Account\Edit.ascx
+[2021-03-02 12:54:28] C:\Projects\Widgets\CMS\CMSModules\ContactManagement\Controls\UI\ContactGroup\Contacts.ascx.cs
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\ContactManagement\Controls\UI
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\ContactManagement\Controls
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\ContactManagement
+[2021-03-02 12:54:28] CMS\CMS\CMSModules\Content\CMSDesk\Edit
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Edit\Edit.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\Properties\AlternativeUrls.aspx
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\Properties\AlternativeUrls.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\Properties\AlternativeUrls.aspx.designer.cs
+[2021-03-02 12:54:29] CMS\CMS\CMSModules\Content\CMSDesk\MVC
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\Edit.aspx
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\Edit.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\Edit.aspx.designer.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\TemplateSelection.aspx
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\TemplateSelection.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\MVC\TemplateSelection.aspx.designer.cs
+[2021-03-02 12:54:29] CMS\CMS\CMSModules\Content\CMSDesk\Properties
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Alias_List.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Attachments.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Categories.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\General.aspx
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\General.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\General.aspx.designer.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Languages.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\LinkedDocs.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Menu.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\MetaData.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Relateddocs_List.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Security.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Template.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Versions.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Workflow.aspx
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Properties\Workflow.aspx.cs
+[2021-03-02 12:54:29] CMS\CMS\CMSModules\Content\CMSDesk\Validation
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Validation\Accessibility.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Validation\CSS.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Validation\HTML.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Validation\Links.aspx.cs
+[2021-03-02 12:54:29] CMS\CMS\CMSModules\Content\CMSDesk\View
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\View\View.aspx
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\View\View.aspx.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\View\View.aspx.designer.cs
+[2021-03-02 12:54:29] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\View\ViewTabs.js
+[2021-03-02 12:54:29] CMS\CMS\CMSModules\Content\CMSDesk
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Content.js
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\Delete.aspx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\EditTabs.js
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\CMSDesk\TemplateSelection.aspx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Properties\URLProperties.ascx
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Properties\URLProperties.ascx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Properties\URLProperties.ascx.designer.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Selectors\FileSystemSelector\FileSystemSelector.ascx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Selectors\LinkMediaSelector\InnerMediaView.ascx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Selectors\LinkMediaSelector\LinkMediaSelector.ascx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Selectors\LinkMediaSelector\Menu.ascx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Dialogs\Selectors\LinkMediaSelector\NewFile.ascx.cs
+[2021-03-02 12:54:30] CMS\CMS\CMSModules\Content\Controls\Dialogs
+[2021-03-02 12:54:30] CMS\CMS\CMSModules\Content\Controls\Filters
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Filters\ObjectsRecycleBinFilter.ascx
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Filters\ObjectsRecycleBinFilter.ascx.cs
+[2021-03-02 12:54:30] CMS\CMS\CMSModules\Content\Controls\Relationships
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\Relationships\AddRelatedDocument.ascx.cs
+[2021-03-02 12:54:30] CMS\CMS\CMSModules\Content\Controls\UserContributions
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\UserContributions\EditForm.ascx.cs
+[2021-03-02 12:54:30] CMS\CMS\CMSModules\Content\Controls
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\DocTypeSelection.ascx.cs
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\EditMenu.ascx
+[2021-03-02 12:54:30] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\EditMenu.ascx.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\EditMenu.ascx.designer.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\MasterPage.ascx.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\NewCultureVersion.ascx.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\TreeActionsPanel.ascx
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\TreeActionsPanel.ascx.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\TreeContextMenu.ascx.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\ViewVersion.ascx
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\Controls\ViewVersion.ascx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Content\FormControls\Documents
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\FormControls\Documents\SelectPath.ascx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Content\FormControls\Relationships
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Content\FormControls\Relationships\RelatedDocuments.ascx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Content\FormControls
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Content
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\CustomTables
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\CustomTables\CustomTable_List.aspx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\DataProtection\Pages
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\DataProtection\Pages\PersonalDataManagement.aspx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\DataProtection
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Ecommerce\CMSPages
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Ecommerce\CMSPages\GetInvoice.aspx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Ecommerce\FormControls
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Ecommerce\FormControls\SelectProductImage.ascx.cs
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\Ecommerce\FormControls\SKUSelector.ascx.cs
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\Ecommerce
+[2021-03-02 12:54:31] CMS\CMS\CMSModules\EmailQueue
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\EmailQueue\EmailQueue_Details.aspx
+[2021-03-02 12:54:31] C:\Projects\Widgets\CMS\CMSModules\EmailQueue\EmailQueue_Details.aspx.cs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\EmailQueue\EmailQueue_Details.aspx.designer.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Groups\FormControls
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\Groups\FormControls\CommunityGroupSelector.ascx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Groups
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\ImportExport\Controls\Import
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\ImportExport\Controls\Import\ma_automationaction.ascx
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\ImportExport\Controls\Import\ma_automationaction.ascx.cs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\ImportExport\Controls\Import\ma_automationaction.ascx.designer.cs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\ImportExport\Controls\Import\__objects__.ascx
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\ImportExport\Controls\Import\__objects__.ascx.cs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\ImportExport\Controls\Import\__objects__.ascx.designer.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\ImportExport\Controls
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\ImportExport
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\Integration\Controls\UI\IntegrationTask\List.ascx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Integration\Controls\UI
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Integration\Controls
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Integration
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\MediaLibrary\Controls\Dialogs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\MediaLibrary\Controls\Dialogs\LinkMediaSelector.ascx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\MediaLibrary\Controls\MediaLibrary
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\MediaLibrary\Controls\MediaLibrary\MediaFileMetaDataEditor.ascx.cs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\MediaLibrary\Controls\MediaLibrary\MediaLibrary.ascx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\MediaLibrary\Controls
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\MediaLibrary
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Membership\Pages\LinkedIn
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\Membership\Pages\LinkedIn\LinkedInAccessTokenPage.aspx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Membership\Pages\Users
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\Membership\Pages\Users\User_Edit_CustomFields.aspx.cs
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\Membership\Pages\Users\User_Edit_General.aspx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Membership\Pages
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Membership
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Newsletters\Controls
+[2021-03-02 12:54:32] C:\Projects\Widgets\CMS\CMSModules\Newsletters\Controls\MySubscriptions.ascx.cs
+[2021-03-02 12:54:32] CMS\CMS\CMSModules\Newsletters\EmailBuilder
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\Newsletters\EmailBuilder\Email_Builder.aspx
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\Newsletters\Tools\Newsletters
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\Newsletters\Tools\Newsletters\Newsletter_Subscribers.aspx.cs
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\Newsletters\Tools
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\Newsletters
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\Objects\FormControls
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\Objects\FormControls\BinObjectTypeSelector.ascx.cs
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\Objects
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\ConversionEditor.ascx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\ConversionEditor.ascx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\ConversionEditor.ascx.designer.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\Edit.ascx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\Edit.ascx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\List.ascx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\List.ascx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Controls\UI\Grids\MacroRule.xml
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\OnlineMarketing\Controls\UI
+[2021-03-02 12:54:33] CMS\CMS\CMSModules\OnlineMarketing\Controls
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\FinishABTest.aspx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\List.aspx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\List.aspx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Overview.aspx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Overview.aspx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Overview.aspx.designer.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\OverviewMVC.aspx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\OverviewMVC.aspx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\OverviewMVC.aspx.designer.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\StartABTest.aspx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Tab_General.aspx
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Tab_General.aspx.cs
+[2021-03-02 12:54:33] C:\Projects\Widgets\CMS\CMSModules\OnlineMarketing\Pages\Content\ContentPersonalizationVariant\List.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\OnlineMarketing\Pages\Content
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\OnlineMarketing\Pages
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\OnlineMarketing
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\PortalEngine\UI\PageLayouts
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\PortalEngine\UI\PageLayouts\PageLayout_Templates.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\PortalEngine\UI
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\PortalEngine
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Reporting\Controls
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Reporting\Controls\DisplayReport.ascx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Reporting
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Scoring\Controls\UI\Rule\List.ascx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Scoring\Controls\UI
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Scoring\Controls
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Scoring
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\SocialMarketing\Pages
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\SocialMarketing\Pages\LinkedInCompanyAccessTokenDialog.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\SocialMarketing
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging\Tools\AllTasks
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Staging\Tools\AllTasks\Tasks.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging\Tools\Data
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Staging\Tools\Data\Tasks.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging\Tools\Objects
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Staging\Tools\Objects\Tasks.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging\Tools\TaskGroup
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Staging\Tools\TaskGroup\TaskGroup.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging\Tools\Tasks
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Staging\Tools\Tasks\Tasks.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging\Tools
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Staging
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\System\Controls
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\System\Controls\System.ascx
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\System\Controls\System.ascx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\System\Macros
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\System\Macros\System_Macros.aspx
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\System\Macros\System_Macros.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\System
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Translations\Pages
+[2021-03-02 12:54:34] C:\Projects\Widgets\CMS\CMSModules\Translations\Pages\TranslateDocuments.aspx.cs
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Translations
+[2021-03-02 12:54:34] CMS\CMS\CMSModules\Widgets\Controls
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Widgets\Controls\WidgetProperties.ascx.cs
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Widgets\LiveDialogs
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Widgets\LiveDialogs\WidgetProperties.aspx.cs
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Widgets\LiveDialogs\WidgetProperties_Properties.aspx.cs
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Widgets\LiveDialogs\WidgetSelector.aspx.cs
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Widgets
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Workflows\Controls\UI\WorkflowStep\Security.ascx
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Workflows\Controls\UI\WorkflowStep\Security.ascx.cs
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Workflows\Controls\UI\WorkflowStep\Security.ascx.designer.cs
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Workflows\Controls\UI
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Workflows\Controls
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Workflows\Pages\WorkflowStep\SourcePoint\Security.aspx.cs
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Workflows\Pages\WorkflowStep
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Workflows\Pages
+[2021-03-02 12:54:35] CMS\CMS\CMSModules\Workflows
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSModules\Workflows\Workflow_Step_Security.aspx.cs
+[2021-03-02 12:54:35] CMS\CMS\CMSModules
+[2021-03-02 12:54:35] CMS\CMS\CMSPages
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSPages\logon.aspx.cs
+[2021-03-02 12:54:35] CMS\CMS\CMSResources
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSResources\Hotfix.resx
+[2021-03-02 12:54:35] CMS\CMS\CMSScripts\CMSModules\CMS
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS\AdvancedPopupHandler.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS\CookiePolicyDetection.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS\CurrentUrlHelper.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS\MessageService.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS\UITabs.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS\UrlHelper.js
+[2021-03-02 12:54:35] CMS\CMS\CMSScripts\CMSModules\CMS.Builder\FormBuilder
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Builder\FormBuilder\Messaging.js
+[2021-03-02 12:54:35] CMS\CMS\CMSScripts\CMSModules\CMS.Builder\PageBuilder
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Builder\PageBuilder\Messaging.js
+[2021-03-02 12:54:35] CMS\CMS\CMSScripts\CMSModules\CMS.Builder
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Builder\Constants.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Builder\FrameSrcAttributeModifier.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Builder\MessageTypes.js
+[2021-03-02 12:54:35] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Builder\ModalDialogService.js
+[2021-03-02 12:54:35] CMS\CMS\CMSScripts\CMSModules\CMS.Newsletter
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.Newsletter\MessageService.js
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\CMSModules\CMS.OnlineMarketing
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.OnlineMarketing\ABTestOverview.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.OnlineMarketing\ABVariantSelector.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.OnlineMarketing\PopUpWindow.js
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\CMSModules\CMS.PageTemplates
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.PageTemplates\TemplateSelector.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\CMSModules\CMS.PageTemplates\TemplateSelector.localization.json
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\CMSModules
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\Controls
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\Controls\MessagesPlaceHolder.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\Controls\uniselector.js
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\DesignMode
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\DesignMode\PortalManager.js
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\Dialogs
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\Dialogs\modaldialog.js
+[2021-03-02 12:54:36] CMS\CMS\CMSScripts\WebComponents\components
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-12ee72ee.es5.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-3cefcc8d.es5.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-3fd38db9.es5.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-4e6b1b49.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-5dc1aa56.es5.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-a93dedfa.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-be87adfa.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-e0b8e497.es5.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-ee323282.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\chunk-f91cccde.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\components.core.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\components.core.pf.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\components.global.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-abtest-variant-listing.es5.js
+[2021-03-02 12:54:36] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-abtest-variant-listing.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-abtest-variant-listing.sc.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-abtest-variant-listing.sc.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-add-component-button.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-add-component-button.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-alert-box.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-alert-box.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-alert-box.sc.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-alert-box.sc.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-dialog-header.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-dialog-header.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-dialog-header.sc.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-dialog-header.sc.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-drop-marker.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-drop-marker.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-drop-marker.sc.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-drop-marker.sc.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-form-modal-dialog.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-form-modal-dialog.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-header-button.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-header-button.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-header-button.sc.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-header-button.sc.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-loader.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-loader.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-loader.sc.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-loader.sc.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files-form-component.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files-form-component.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files-grid.es5.js
+[2021-03-02 12:54:37] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files-grid.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files-grid.sc.es5.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files-grid.sc.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files.es5.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files.sc.es5.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-media-files.sc.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-miller-column.es5.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-miller-column.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-modal-dialog.es5.js
+[2021-03-02 12:54:38] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-modal-dialog.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-modal-dialog.sc.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-modal-dialog.sc.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-page-selector-form-component.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-page-selector-form-component.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-page-selector.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-page-selector.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-page-selector.sc.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-page-selector.sc.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-personalization-button.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-personalization-button.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-pop-up-container.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-pop-up-container.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-section-header.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-section-header.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-submit-button.es5.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-submit-button.js
+[2021-03-02 12:54:39] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-submit-button.sc.es5.js
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-submit-button.sc.js
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-widget-header.es5.js
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components\kentico-widget-header.js
+[2021-03-02 12:54:40] CMS\CMS\CMSScripts\WebComponents
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSScripts\WebComponents\components.js
+[2021-03-02 12:54:40] CMS\CMS\CMSScripts
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSScripts\cmsedit.js
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Ecommerce\Checkout\Forms
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Ecommerce\Checkout\Forms\CustomerDetail.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Ecommerce\Checkout
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Ecommerce
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Filters
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Filters\Filter.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\General
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\General\CookieLaw.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Layouts
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Layouts\CollapsiblePanel.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Membership\FacebookConnect
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\FacebookConnect\FacebookConnectLogon.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Membership\LinkedIn
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\LinkedIn\LinkedInLogon.ascx.cs
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\LinkedIn\LinkedInUsersRequiredData.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Membership\Logon
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\Logon\LogonForm.ascx.cs
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\Logon\LogonMiniForm.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Membership\Registration
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\Registration\CustomRegistrationForm.ascx.cs
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Membership\Registration\RegistrationForm.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Membership
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Newsletters
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Newsletters\CustomSubscriptionForm.ascx.cs
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Newsletters\NewsletterSubscriptionWebPart.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts\Widgets
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\CMSWebParts\Widgets\WidgetActions.ascx.cs
+[2021-03-02 12:54:40] CMS\CMS\CMSWebParts
+[2021-03-02 12:54:40] CMS\CMS\Old_App_Code\CMS
+[2021-03-02 12:54:40] C:\Projects\Widgets\CMS\Old_App_Code\CMS\UpgradeProcedure.cs
+[2021-03-02 12:54:41] CMS\CMS\Old_App_Code\CMSModules\EmailTemplates
+[2021-03-02 12:54:41] C:\Projects\Widgets\CMS\Old_App_Code\CMSModules\EmailTemplates\EmailTemplateEditExtender.cs
+[2021-03-02 12:54:41] CMS\CMS\Old_App_Code\CMSModules
+[2021-03-02 12:54:41] CMS\CMS\Old_App_Code
+[2021-03-02 12:54:41] CMS\CMS
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\CMSApp.csproj
+[2021-03-02 12:54:55] CMS
+[2021-03-02 12:54:55] C:\Projects\Widgets\GlobalAssemblyInfo.cs
+[2021-03-02 12:54:55] DLLs\Net461
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Activities.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Activities.Loggers.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Activities.Loggers.xml
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Activities.Web.UI.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Activities.Web.UI.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Activities.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.AmazonStorage.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.AmazonStorage.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ApplicationDashboard.Web.UI.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ApplicationDashboard.Web.UI.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.AspNet.Platform.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.AspNet.Platform.xml
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Automation.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Automation.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.AzureStorage.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.AzureStorage.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.BannerManagement.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.BannerManagement.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Base.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Base.Web.UI.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Base.Web.UI.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Base.xml
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ContactManagement.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ContactManagement.Web.UI.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ContactManagement.Web.UI.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ContactManagement.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ContinuousIntegration.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.ContinuousIntegration.xml
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Core.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.Core.xml
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.CustomTables.dll
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.CustomTables.XML
+[2021-03-02 12:54:55] C:\Projects\Widgets\CMS\bin\CMS.DataEngine.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DataEngine.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DataProtection.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DataProtection.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DeviceProfiles.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DeviceProfiles.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentEngine.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentEngine.Web.UI.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentEngine.Web.UI.xml
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentEngine.Web.UI.XmlSerializers.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentEngine.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentWebServices.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.DocumentWebServices.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.EmailEngine.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.EmailEngine.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.EventLog.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.EventLog.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.ExternalAuthentication.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.ExternalAuthentication.Web.UI.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.ExternalAuthentication.Web.UI.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.ExternalAuthentication.xml
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.FormEngine.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.FormEngine.Web.UI.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.FormEngine.Web.UI.xml
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.FormEngine.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.Globalization.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.Globalization.Web.UI.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.Globalization.Web.UI.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.Globalization.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.HealthMonitoring.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.HealthMonitoring.XML
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.Helpers.dll
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.Helpers.xml
+[2021-03-02 12:54:56] C:\Projects\Widgets\CMS\bin\CMS.ImportExport.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.ImportExport.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.IO.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.IO.xml
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.LicenseProvider.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.LicenseProvider.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.LicenseProvider.XmlSerializers.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.MacroEngine.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.MacroEngine.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Membership.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Membership.Web.UI.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Membership.Web.UI.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Membership.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.MembershipProvider.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.MembershipProvider.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Modules.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Modules.Web.UI.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Modules.Web.UI.xml
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Modules.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.ModuleUsageTracking.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.ModuleUsageTracking.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.OnlineForms.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.OnlineForms.Web.UI.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.OnlineForms.Web.UI.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.OnlineForms.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.OutputFilter.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.OutputFilter.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.PortalEngine.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.PortalEngine.Web.UI.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.PortalEngine.Web.UI.xml
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.PortalEngine.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Protection.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Protection.Web.UI.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Protection.Web.UI.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Protection.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Relationships.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Relationships.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.ResponsiveImages.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.ResponsiveImages.xml
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Routing.Web.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Routing.Web.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Scheduler.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Scheduler.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.Azure.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.Azure.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.Lucene3.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.Lucene3.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.TextExtractors.dll
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.TextExtractors.XML
+[2021-03-02 12:54:57] C:\Projects\Widgets\CMS\bin\CMS.Search.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Search.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Search.xml
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.SiteProvider.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.SiteProvider.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Synchronization.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Synchronization.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Synchronization.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Synchronization.WSE3.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Synchronization.WSE3.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Synchronization.xml
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.SynchronizationEngine.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.SynchronizationEngine.xml
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Taxonomy.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.Taxonomy.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.TranslationServices.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.TranslationServices.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.TranslationServices.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.TranslationServices.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.UIControls.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.UIControls.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.URLRewritingEngine.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.URLRewritingEngine.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.VirtualPathProvider.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.VirtualPathProvider.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebAnalytics.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebAnalytics.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebAnalytics.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebAnalytics.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebApi.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebApi.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebFarmSync.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebFarmSync.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebServices.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WebServices.xml
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WorkflowEngine.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WorkflowEngine.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WorkflowEngine.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\CMS.WorkflowEngine.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\ContinuousIntegration.exe
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\Lucene.Net.v3.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\Lucene.Net.WordNet.SynExpand.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\PDFClown.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\CMS\bin\ThoughtWorks.QRCode.dll
+[2021-03-02 12:54:58] DLLs\Net461
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Activities.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Activities.Loggers.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Activities.Loggers.xml
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Activities.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Activities.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Activities.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.AmazonStorage.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.AmazonStorage.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.ApplicationDashboard.Web.UI.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.ApplicationDashboard.Web.UI.XML
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.AspNet.Platform.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.AspNet.Platform.xml
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Automation.dll
+[2021-03-02 12:54:58] C:\Projects\Widgets\Lib\CMS.Automation.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.AzureStorage.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.AzureStorage.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.BannerManagement.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.BannerManagement.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Base.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Base.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Base.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Base.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ContactManagement.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ContactManagement.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ContactManagement.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ContactManagement.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ContinuousIntegration.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ContinuousIntegration.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Core.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Core.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.CustomTables.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.CustomTables.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DataEngine.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DataEngine.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DataProtection.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DataProtection.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DeviceProfiles.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DeviceProfiles.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentEngine.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentEngine.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentEngine.Web.UI.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentEngine.Web.UI.XmlSerializers.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentEngine.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentWebServices.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.DocumentWebServices.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.EmailEngine.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.EmailEngine.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.EventLog.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.EventLog.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ExternalAuthentication.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ExternalAuthentication.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ExternalAuthentication.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ExternalAuthentication.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.FormEngine.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.FormEngine.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.FormEngine.Web.UI.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.FormEngine.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Globalization.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Globalization.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Globalization.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Globalization.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.HealthMonitoring.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.HealthMonitoring.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Helpers.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Helpers.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ImportExport.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ImportExport.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.IO.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.IO.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.LicenseProvider.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.LicenseProvider.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.LicenseProvider.XmlSerializers.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.MacroEngine.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.MacroEngine.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Membership.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Membership.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Membership.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Membership.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.MembershipProvider.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.MembershipProvider.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Modules.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Modules.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Modules.Web.UI.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Modules.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ModuleUsageTracking.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ModuleUsageTracking.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.OnlineForms.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.OnlineForms.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.OnlineForms.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.OnlineForms.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.OutputFilter.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.OutputFilter.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.PortalEngine.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.PortalEngine.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.PortalEngine.Web.UI.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.PortalEngine.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Protection.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Protection.Web.UI.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Protection.Web.UI.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Protection.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Relationships.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Relationships.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ResponsiveImages.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.ResponsiveImages.xml
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Routing.Web.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Routing.Web.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Scheduler.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Scheduler.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.Azure.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.Azure.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.Lucene3.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.Lucene3.XML
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.TextExtractors.dll
+[2021-03-02 12:54:59] C:\Projects\Widgets\Lib\CMS.Search.TextExtractors.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Search.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Search.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Search.xml
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.SiteProvider.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.SiteProvider.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Synchronization.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Synchronization.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Synchronization.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Synchronization.WSE3.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Synchronization.WSE3.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Synchronization.xml
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.SynchronizationEngine.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.SynchronizationEngine.xml
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Taxonomy.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Taxonomy.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.TranslationServices.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.TranslationServices.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.TranslationServices.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.TranslationServices.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.UIControls.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.UIControls.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.URLRewritingEngine.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.URLRewritingEngine.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.VirtualPathProvider.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.VirtualPathProvider.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebAnalytics.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebAnalytics.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebAnalytics.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebAnalytics.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebApi.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebApi.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebFarmSync.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebFarmSync.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebServices.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WebServices.xml
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WorkflowEngine.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WorkflowEngine.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WorkflowEngine.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.WorkflowEngine.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\ContinuousIntegration.exe
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\Lucene.Net.v3.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\Lucene.Net.WordNet.SynExpand.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\PDFClown.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\ThoughtWorks.QRCode.dll
+[2021-03-02 12:55:00] DLLs\Modules\Blogs\Net461\Lib
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Blogs.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Blogs.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Blogs.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Blogs.XML
+[2021-03-02 12:55:00] DLLs\Modules\Blogs\Net461\Lib
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Blogs.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Blogs.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Blogs.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Blogs.XML
+[2021-03-02 12:55:00] DLLs\Modules\Chat\Net461\Lib
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Chat.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Chat.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Chat.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Chat.XML
+[2021-03-02 12:55:00] DLLs\Modules\Chat\Net461\Lib
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Chat.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Chat.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Chat.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Chat.XML
+[2021-03-02 12:55:00] DLLs\Modules\Community\Net461\Lib
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Community.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Community.Web.UI.dll
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Community.Web.UI.XML
+[2021-03-02 12:55:00] C:\Projects\Widgets\CMS\bin\CMS.Community.XML
+[2021-03-02 12:55:00] DLLs\Modules\Community\Net461\Lib
+[2021-03-02 12:55:00] C:\Projects\Widgets\Lib\CMS.Community.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Community.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Community.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Community.XML
+[2021-03-02 12:55:01] DLLs\Modules\DancingGoat.Samples\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.DancingGoat.Samples.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.DancingGoat.Samples.xml
+[2021-03-02 12:55:01] DLLs\Modules\DancingGoat.Samples\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.DancingGoat.Samples.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.DancingGoat.Samples.xml
+[2021-03-02 12:55:01] DLLs\Modules\Ecommerce\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Ecommerce.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Ecommerce.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Ecommerce.Web.UI.xml
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Ecommerce.XML
+[2021-03-02 12:55:01] DLLs\Modules\Ecommerce\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Ecommerce.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Ecommerce.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Ecommerce.Web.UI.xml
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Ecommerce.XML
+[2021-03-02 12:55:01] DLLs\Modules\EventManager\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.EventManager.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.EventManager.XML
+[2021-03-02 12:55:01] DLLs\Modules\EventManager\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.EventManager.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.EventManager.XML
+[2021-03-02 12:55:01] DLLs\Modules\Forums\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Forums.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Forums.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Forums.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Forums.XML
+[2021-03-02 12:55:01] DLLs\Modules\Forums\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Forums.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Forums.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Forums.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.Forums.XML
+[2021-03-02 12:55:01] DLLs\Modules\MediaLibrary\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MediaLibrary.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MediaLibrary.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MediaLibrary.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MediaLibrary.XML
+[2021-03-02 12:55:01] DLLs\Modules\MediaLibrary\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MediaLibrary.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MediaLibrary.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MediaLibrary.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MediaLibrary.XML
+[2021-03-02 12:55:01] DLLs\Modules\MessageBoards\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MessageBoards.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MessageBoards.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MessageBoards.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.MessageBoards.xml
+[2021-03-02 12:55:01] DLLs\Modules\MessageBoards\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MessageBoards.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MessageBoards.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MessageBoards.Web.UI.XML
+[2021-03-02 12:55:01] C:\Projects\Widgets\Lib\CMS.MessageBoards.xml
+[2021-03-02 12:55:01] DLLs\Modules\Newsletters\Net461\Lib
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Newsletters.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Newsletters.Web.UI.dll
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Newsletters.Web.UI.xml
+[2021-03-02 12:55:01] C:\Projects\Widgets\CMS\bin\CMS.Newsletters.xml
+[2021-03-02 12:55:01] DLLs\Modules\Newsletters\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Newsletters.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Newsletters.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Newsletters.Web.UI.xml
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Newsletters.xml
+[2021-03-02 12:55:02] DLLs\Modules\Notifications\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Notifications.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Notifications.Web.UI.xml
+[2021-03-02 12:55:02] DLLs\Modules\Notifications\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Notifications.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Notifications.Web.UI.xml
+[2021-03-02 12:55:02] DLLs\Modules\OnlineMarketing\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.OnlineMarketing.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.OnlineMarketing.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.OnlineMarketing.Web.UI.xml
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.OnlineMarketing.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.SalesForce.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.SalesForce.XML
+[2021-03-02 12:55:02] DLLs\Modules\OnlineMarketing\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.OnlineMarketing.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.OnlineMarketing.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.OnlineMarketing.Web.UI.xml
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.OnlineMarketing.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.SalesForce.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.SalesForce.XML
+[2021-03-02 12:55:02] DLLs\Modules\Personas\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Personas.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Personas.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Personas.Web.UI.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Personas.XML
+[2021-03-02 12:55:02] DLLs\Modules\Personas\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Personas.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Personas.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Personas.Web.UI.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Personas.XML
+[2021-03-02 12:55:02] DLLs\Modules\Polls\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Polls.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Polls.XML
+[2021-03-02 12:55:02] DLLs\Modules\Polls\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Polls.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Polls.XML
+[2021-03-02 12:55:02] DLLs\Modules\Reporting\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Reporting.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Reporting.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Reporting.Web.UI.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.Reporting.XML
+[2021-03-02 12:55:02] DLLs\Modules\Reporting\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Reporting.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Reporting.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Reporting.Web.UI.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.Reporting.XML
+[2021-03-02 12:55:02] DLLs\Modules\Sharepoint\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.SharePoint.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.SharePoint.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.SharePoint.Web.UI.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\CMS\bin\CMS.SharePoint.XML
+[2021-03-02 12:55:02] DLLs\Modules\Sharepoint\Net461\Lib
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.SharePoint.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.SharePoint.Web.UI.dll
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.SharePoint.Web.UI.XML
+[2021-03-02 12:55:02] C:\Projects\Widgets\Lib\CMS.SharePoint.XML
+[2021-03-02 12:55:03] DLLs\Modules\SocialMarketing\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.SocialMarketing.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.SocialMarketing.Web.UI.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.SocialMarketing.Web.UI.xml
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.SocialMarketing.xml
+[2021-03-02 12:55:03] DLLs\Modules\SocialMarketing\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.SocialMarketing.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.SocialMarketing.Web.UI.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.SocialMarketing.Web.UI.xml
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.SocialMarketing.xml
+[2021-03-02 12:55:03] DLLs\Modules\Staging\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\Microsoft.Web.Services3.dll
+[2021-03-02 12:55:03] DLLs\Modules\Staging\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\Microsoft.Web.Services3.dll
+[2021-03-02 12:55:03] DLLs\Modules\StrandsRecommender\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.StrandsRecommender.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.StrandsRecommender.Web.UI.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.StrandsRecommender.Web.UI.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.StrandsRecommender.XML
+[2021-03-02 12:55:03] DLLs\Modules\StrandsRecommender\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.StrandsRecommender.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.StrandsRecommender.Web.UI.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.StrandsRecommender.Web.UI.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.StrandsRecommender.XML
+[2021-03-02 12:55:03] DLLs\Modules\WebDAV\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WebDAV.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WebDAV.Web.UI.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WebDAV.Web.UI.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WebDAV.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\ITHit.WebDAV.Server.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\ITHit.WebDAV.Server.xml
+[2021-03-02 12:55:03] DLLs\Modules\WebDAV\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WebDAV.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WebDAV.Web.UI.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WebDAV.Web.UI.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WebDAV.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\ITHit.WebDAV.Server.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\ITHit.WebDAV.Server.xml
+[2021-03-02 12:55:03] DLLs\Modules\WIFIntegration\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WIFIntegration.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WIFIntegration.XML
+[2021-03-02 12:55:03] DLLs\Modules\WIFIntegration\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WIFIntegration.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WIFIntegration.XML
+[2021-03-02 12:55:03] DLLs\Modules\WindowsServices\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WinServiceEngine.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMS.WinServiceEngine.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\HealthMonitoringService.exe
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\SchedulerService.exe
+[2021-03-02 12:55:03] DLLs\Modules\WindowsServices\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WinServiceEngine.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\CMS.WinServiceEngine.XML
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\HealthMonitoringService.exe
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\SchedulerService.exe
+[2021-03-02 12:55:03] DLLs\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\ITHit.WebDAV.Server.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\ITHit.WebDAV.Server.xml
+[2021-03-02 12:55:03] DLLs\Net461\Lib
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\ITHit.WebDAV.Server.dll
+[2021-03-02 12:55:03] C:\Projects\Widgets\Lib\ITHit.WebDAV.Server.xml
+[2021-03-02 12:55:03] DLLs\Net461\App
+[2021-03-02 12:55:03] C:\Projects\Widgets\CMS\bin\CMSApp.dll
+[2021-03-02 12:55:04] Upgrading nuget packages in: C:\Projects\Widgets\CMS\CMSApp.csproj
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Microsoft.CSharp (4.4.1)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Rx-Main (2.2.5)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: System.Runtime.Numerics (4.3.0)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: AjaxControlToolkit (17.1.1.0)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: AjaxMin (5.14.5506.26202)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: AngleSharp (0.9.9)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: AWSSDK.Core (3.1.11.0)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: AWSSDK.S3 (3.1.9.0)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Castle.Core (4.2.0)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Castle.Windsor (4.1.0)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: DocumentFormat.OpenXml (2.7.2)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Facebook (6.4.2)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: GlobalLink.Connect (4.18.3.1)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Rx-Interfaces (2.2.5)
+[2021-03-02 12:55:04] Creating binding redirect for nuget package: Rx-Core (2.2.5)
+[2021-03-02 12:55:05] Creating binding redirect for nuget package: Rx-Linq (2.2.5)
+[2021-03-02 12:55:05] Creating binding redirect for nuget package: linqtotwitter (4.0.0)
+[2021-03-02 12:55:05] Creating binding redirect for nuget package: MaxMind.Db (2.4.0)
+[2021-03-02 12:55:05] Creating binding redirect for nuget package: Newtonsoft.Json (11.0.2)
+[2021-03-02 12:55:05] Creating binding redirect for nuget package: MaxMind.GeoIP2 (3.0.0)
+[2021-03-02 12:55:05] Creating binding redirect for nuget package: Microsoft.Azure.KeyVault.Core (1.0.0)
+[2021-03-02 12:55:06] Creating binding redirect for nuget package: Microsoft.Rest.ClientRuntime (2.3.17)
+[2021-03-02 12:55:06] Creating binding redirect for nuget package: Microsoft.Rest.ClientRuntime.Azure (3.3.18)
+[2021-03-02 12:55:06] Creating binding redirect for nuget package: Microsoft.Azure.Search.Common (5.0.3)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Spatial (7.2.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Azure.Search.Data (5.0.3)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Azure.Search.Service (5.0.3)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Azure.Search (5.0.3)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Data.Edm (5.6.4)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.Spatial (5.6.4)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Data.OData (5.6.4)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Data.Services.Client (5.6.4)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.SharePointOnline.CSOM (16.1.6621.1200)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.Web.Xdt (2.1.1)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.WindowsAzure.ConfigurationManager (2.0.2.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: WindowsAzure.Storage (7.2.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Mono.Cecil (0.10.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: NuGet.Core (2.14.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: OpenPop.NET (2.0.4.369)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: PayPal (1.8.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.Data.HashFunction.Interfaces (2.0.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.Data.HashFunction.Core (2.0.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.ValueTuple (4.4.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.Data.HashFunction.CRC (2.0.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.IO.FileSystem.Primitives (4.0.1)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: System.IO.Packaging (4.0.0)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.AspNet.WebApi.Client (5.2.3)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Rx-PlatformServices (2.2.5)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.AspNet.WebApi.Core (5.2.3)
+[2021-03-02 12:55:07] Creating binding redirect for nuget package: Microsoft.AspNet.WebApi.WebHost (5.2.3)
+[2021-03-02 12:55:07] Running SQL script (Hotfix_separated.sql)
+[2021-03-02 12:55:07] SQL script applied.
+[2021-03-02 12:55:07] Running SQL script (Hotfix_default.sql)
+[2021-03-02 12:55:08] SQL script applied.
+[2021-03-02 12:55:08] Copying files...
+[2021-03-02 12:55:12] Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\FormControls
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\FormControls\FormFieldSelector.ascx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\FormControls\FormFieldSelector.ascx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\FormControls\SelectBizForm.ascx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\FormControls\SelectBizForm.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_EditRecordMVC.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_EditRecordMVC.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_EditRecordMVC.aspx.designer.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_FormBuilder.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_FormBuilderMVC.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_General.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_General.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_General.aspx.designer.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_NotificationEmail.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_NotificationEmail.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\BizForms\CMS\CMSModules\BizForms\Tools\BizForm_Edit_NotificationEmail.aspx.designer.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Community\CMS\CMSModules\Groups\FormControls
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Community\CMS\CMSModules\Groups\FormControls\CommunityGroupSelector.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Ecommerce\CMS\CMSModules\Ecommerce\CMSPages
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Ecommerce\CMS\CMSModules\Ecommerce\CMSPages\GetInvoice.aspx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Ecommerce\CMS\CMSModules\Ecommerce\FormControls
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Ecommerce\CMS\CMSModules\Ecommerce\FormControls\SelectProductImage.ascx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Ecommerce\CMS\CMSModules\Ecommerce\FormControls\SKUSelector.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Ecommerce\CMS\CMSWebParts\Ecommerce\Checkout\Forms
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Ecommerce\CMS\CMSWebParts\Ecommerce\Checkout\Forms\CustomerDetail.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\MediaLibrary\CMS\CMSModules\MediaLibrary\Controls\Dialogs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\MediaLibrary\CMS\CMSModules\MediaLibrary\Controls\Dialogs\LinkMediaSelector.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\MediaLibrary\CMS\CMSModules\MediaLibrary\Controls\MediaLibrary
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\MediaLibrary\CMS\CMSModules\MediaLibrary\Controls\MediaLibrary\MediaFileMetaDataEditor.ascx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\MediaLibrary\CMS\CMSModules\MediaLibrary\Controls\MediaLibrary\MediaLibrary.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Newsletters\CMS\CMSModules\Newsletters\Controls
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Newsletters\CMS\CMSModules\Newsletters\Controls\MySubscriptions.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Newsletters\CMS\CMSModules\Newsletters\EmailBuilder
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Newsletters\CMS\CMSModules\Newsletters\EmailBuilder\Email_Builder.aspx
+[2021-03-02 12:55:12] Webinstaller\Modules\Newsletters\CMS\CMSModules\Newsletters\Tools\Newsletters
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Newsletters\CMS\CMSModules\Newsletters\Tools\Newsletters\Newsletter_Subscribers.aspx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\Newsletters\CMS\CMSWebParts\Newsletters
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Newsletters\CMS\CMSWebParts\Newsletters\CustomSubscriptionForm.ascx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Newsletters\CMS\CMSWebParts\Newsletters\NewsletterSubscriptionWebPart.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\Activities\Controls\UI\ActivityDetails
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\Activities\Controls\UI\ActivityDetails\BizFormDetails.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\Activities\Controls\UI\ActivityDetails\BizFormDetails.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\Activities\Controls\UI\ActivityDetails\BizFormDetails.aspx.designer.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\ConversionEditor.ascx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\ConversionEditor.ascx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\ConversionEditor.ascx.designer.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\Edit.ascx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\Edit.ascx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\List.ascx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\ABTest\List.ascx.cs
+[2021-03-02 12:55:12] Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\Grids
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Controls\UI\Grids\MacroRule.xml
+[2021-03-02 12:55:12] Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\FinishABTest.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\List.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\List.aspx.cs
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Overview.aspx
+[2021-03-02 12:55:12] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Overview.aspx.cs
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Overview.aspx.designer.cs
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\OverviewMVC.aspx
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\OverviewMVC.aspx.cs
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\OverviewMVC.aspx.designer.cs
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\StartABTest.aspx.cs
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Tab_General.aspx
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ABTesting\ABTest\Tab_General.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ContentPersonalizationVariant
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\OnlineMarketing\Pages\Content\ContentPersonalizationVariant\List.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\Scoring\Controls\UI\Rule
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\OnlineMarketing\CMS\CMSModules\Scoring\Controls\UI\Rule\List.ascx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\Reporting\CMS\CMSModules\Reporting\Controls
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Reporting\CMS\CMSModules\Reporting\Controls\DisplayReport.ascx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\SocialMarketing\CMS\CMSModules\SocialMarketing\Pages
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\SocialMarketing\CMS\CMSModules\SocialMarketing\Pages\LinkedInCompanyAccessTokenDialog.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\AllTasks
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\AllTasks\Tasks.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\Data
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\Data\Tasks.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\Objects
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\Objects\Tasks.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\TaskGroup
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\TaskGroup\TaskGroup.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\Tasks
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\Staging\CMS\CMSModules\Staging\Tools\Tasks\Tasks.aspx.cs
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Blogs\Net461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Net461\Lib\CMS.Blogs.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Net461\Lib\CMS.Blogs.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Net461\Lib\CMS.Blogs.Web.UI.XML.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Net461\Lib\CMS.Blogs.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Blogs\Azure461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Azure461\Lib\CMS.Blogs.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Azure461\Lib\CMS.Blogs.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Azure461\Lib\CMS.Blogs.Web.UI.XML.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Blogs\Azure461\Lib\CMS.Blogs.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Chat\Net461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Net461\Lib\CMS.Chat.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Net461\Lib\CMS.Chat.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Net461\Lib\CMS.Chat.Web.UI.XML.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Net461\Lib\CMS.Chat.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Chat\Azure461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Azure461\Lib\CMS.Chat.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Azure461\Lib\CMS.Chat.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Azure461\Lib\CMS.Chat.Web.UI.XML.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Chat\Azure461\Lib\CMS.Chat.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Community\Net461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Net461\Lib\CMS.Community.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Net461\Lib\CMS.Community.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Net461\Lib\CMS.Community.Web.UI.XML.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Net461\Lib\CMS.Community.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Community\Azure461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Azure461\Lib\CMS.Community.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Azure461\Lib\CMS.Community.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Azure461\Lib\CMS.Community.Web.UI.XML.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Community\Azure461\Lib\CMS.Community.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\DancingGoat.Samples\Net461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\DancingGoat.Samples\Net461\Lib\CMS.DancingGoat.Samples.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\DancingGoat.Samples\Net461\Lib\CMS.DancingGoat.Samples.xml.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\DancingGoat.Samples\Azure461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\DancingGoat.Samples\Azure461\Lib\CMS.DancingGoat.Samples.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\DancingGoat.Samples\Azure461\Lib\CMS.DancingGoat.Samples.xml.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Ecommerce\Net461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Net461\Lib\CMS.Ecommerce.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Net461\Lib\CMS.Ecommerce.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Net461\Lib\CMS.Ecommerce.Web.UI.xml.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Net461\Lib\CMS.Ecommerce.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Ecommerce\Azure461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Azure461\Lib\CMS.Ecommerce.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Azure461\Lib\CMS.Ecommerce.Web.UI.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Azure461\Lib\CMS.Ecommerce.Web.UI.xml.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Ecommerce\Azure461\Lib\CMS.Ecommerce.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\EventManager\Net461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\EventManager\Net461\Lib\CMS.EventManager.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\EventManager\Net461\Lib\CMS.EventManager.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\EventManager\Azure461\Lib
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\EventManager\Azure461\Lib\CMS.EventManager.dll.symlink
+[2021-03-02 12:55:13] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\EventManager\Azure461\Lib\CMS.EventManager.XML.symlink
+[2021-03-02 12:55:13] Webinstaller\Modules\DLLs\Forums\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Net461\Lib\CMS.Forums.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Net461\Lib\CMS.Forums.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Net461\Lib\CMS.Forums.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Net461\Lib\CMS.Forums.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Forums\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Azure461\Lib\CMS.Forums.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Azure461\Lib\CMS.Forums.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Azure461\Lib\CMS.Forums.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Forums\Azure461\Lib\CMS.Forums.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\MediaLibrary\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Net461\Lib\CMS.MediaLibrary.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Net461\Lib\CMS.MediaLibrary.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Net461\Lib\CMS.MediaLibrary.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Net461\Lib\CMS.MediaLibrary.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\MediaLibrary\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Azure461\Lib\CMS.MediaLibrary.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Azure461\Lib\CMS.MediaLibrary.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Azure461\Lib\CMS.MediaLibrary.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MediaLibrary\Azure461\Lib\CMS.MediaLibrary.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\MessageBoards\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Net461\Lib\CMS.MessageBoards.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Net461\Lib\CMS.MessageBoards.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Net461\Lib\CMS.MessageBoards.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Net461\Lib\CMS.MessageBoards.xml.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\MessageBoards\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Azure461\Lib\CMS.MessageBoards.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Azure461\Lib\CMS.MessageBoards.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Azure461\Lib\CMS.MessageBoards.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\MessageBoards\Azure461\Lib\CMS.MessageBoards.xml.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Newsletters\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Net461\Lib\CMS.Newsletters.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Net461\Lib\CMS.Newsletters.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Net461\Lib\CMS.Newsletters.Web.UI.xml.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Net461\Lib\CMS.Newsletters.xml.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Newsletters\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Azure461\Lib\CMS.Newsletters.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Azure461\Lib\CMS.Newsletters.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Azure461\Lib\CMS.Newsletters.Web.UI.xml.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Newsletters\Azure461\Lib\CMS.Newsletters.xml.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Notifications\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Notifications\Net461\Lib\CMS.Notifications.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Notifications\Net461\Lib\CMS.Notifications.Web.UI.xml.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Notifications\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Notifications\Azure461\Lib\CMS.Notifications.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Notifications\Azure461\Lib\CMS.Notifications.Web.UI.xml.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib\CMS.OnlineMarketing.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib\CMS.OnlineMarketing.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib\CMS.OnlineMarketing.Web.UI.xml.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib\CMS.OnlineMarketing.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib\CMS.SalesForce.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Net461\Lib\CMS.SalesForce.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib\CMS.OnlineMarketing.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib\CMS.OnlineMarketing.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib\CMS.OnlineMarketing.Web.UI.xml.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib\CMS.OnlineMarketing.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib\CMS.SalesForce.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\OnlineMarketing\Azure461\Lib\CMS.SalesForce.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Personas\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Net461\Lib\CMS.Personas.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Net461\Lib\CMS.Personas.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Net461\Lib\CMS.Personas.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Net461\Lib\CMS.Personas.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Personas\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Azure461\Lib\CMS.Personas.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Azure461\Lib\CMS.Personas.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Azure461\Lib\CMS.Personas.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Personas\Azure461\Lib\CMS.Personas.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Polls\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Polls\Net461\Lib\CMS.Polls.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Polls\Net461\Lib\CMS.Polls.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Polls\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Polls\Azure461\Lib\CMS.Polls.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Polls\Azure461\Lib\CMS.Polls.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Reporting\Net461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Net461\Lib\CMS.Reporting.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Net461\Lib\CMS.Reporting.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Net461\Lib\CMS.Reporting.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Net461\Lib\CMS.Reporting.XML.symlink
+[2021-03-02 12:55:14] Webinstaller\Modules\DLLs\Reporting\Azure461\Lib
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Azure461\Lib\CMS.Reporting.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Azure461\Lib\CMS.Reporting.Web.UI.dll.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Azure461\Lib\CMS.Reporting.Web.UI.XML.symlink
+[2021-03-02 12:55:14] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Reporting\Azure461\Lib\CMS.Reporting.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\Sharepoint\Net461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Net461\Lib\CMS.SharePoint.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Net461\Lib\CMS.SharePoint.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Net461\Lib\CMS.SharePoint.Web.UI.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Net461\Lib\CMS.SharePoint.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\Sharepoint\Azure461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Azure461\Lib\CMS.SharePoint.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Azure461\Lib\CMS.SharePoint.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Azure461\Lib\CMS.SharePoint.Web.UI.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\Sharepoint\Azure461\Lib\CMS.SharePoint.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\SocialMarketing\Net461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Net461\Lib\CMS.SocialMarketing.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Net461\Lib\CMS.SocialMarketing.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Net461\Lib\CMS.SocialMarketing.Web.UI.xml.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Net461\Lib\CMS.SocialMarketing.xml.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\SocialMarketing\Azure461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Azure461\Lib\CMS.SocialMarketing.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Azure461\Lib\CMS.SocialMarketing.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Azure461\Lib\CMS.SocialMarketing.Web.UI.xml.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\SocialMarketing\Azure461\Lib\CMS.SocialMarketing.xml.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\StrandsRecommender\Net461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Net461\Lib\CMS.StrandsRecommender.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Net461\Lib\CMS.StrandsRecommender.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Net461\Lib\CMS.StrandsRecommender.Web.UI.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Net461\Lib\CMS.StrandsRecommender.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\StrandsRecommender\Azure461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Azure461\Lib\CMS.StrandsRecommender.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Azure461\Lib\CMS.StrandsRecommender.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Azure461\Lib\CMS.StrandsRecommender.Web.UI.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\StrandsRecommender\Azure461\Lib\CMS.StrandsRecommender.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\WebDAV\Net461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Net461\Lib\CMS.WebDAV.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Net461\Lib\CMS.WebDAV.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Net461\Lib\CMS.WebDAV.Web.UI.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Net461\Lib\CMS.WebDAV.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Net461\Lib\ITHit.WebDAV.Server.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Net461\Lib\ITHit.WebDAV.Server.xml.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib\CMS.WebDAV.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib\CMS.WebDAV.Web.UI.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib\CMS.WebDAV.Web.UI.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib\CMS.WebDAV.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib\ITHit.WebDAV.Server.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WebDAV\Azure461\Lib\ITHit.WebDAV.Server.xml.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\WIFIntegration\Net461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WIFIntegration\Net461\Lib\CMS.WIFIntegration.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WIFIntegration\Net461\Lib\CMS.WIFIntegration.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\WIFIntegration\Azure461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WIFIntegration\Azure461\Lib\CMS.WIFIntegration.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WIFIntegration\Azure461\Lib\CMS.WIFIntegration.XML.symlink
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\WindowsServices\Net461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Net461\Lib\CMS.WinServiceEngine.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Net461\Lib\CMS.WinServiceEngine.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Net461\Lib\HealthMonitoringService.exe
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Net461\Lib\SchedulerService.exe
+[2021-03-02 12:55:15] Webinstaller\Modules\DLLs\WindowsServices\Azure461\Lib
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Azure461\Lib\CMS.WinServiceEngine.dll.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Azure461\Lib\CMS.WinServiceEngine.XML.symlink
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Azure461\Lib\HealthMonitoringService.exe
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Modules\DLLs\WindowsServices\Azure461\Lib\SchedulerService.exe
+[2021-03-02 12:55:15] Webinstaller\Web\CMS\CMSResources
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Web\CMS\CMSResources\Hotfix.resx
+[2021-03-02 12:55:15] Webinstaller\Templates\BlankSite
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\BlankSite\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\BlankSiteASPX
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\BlankSiteASPX\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\BlankSiteMvc
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\BlankSiteMvc\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\CorporateSite
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\CorporateSite\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\DancingGoat
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\DancingGoat\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\ECommerceSite
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\ECommerceSite\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\IntranetPortal
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\IntranetPortal\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\BlankSiteMvc
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\BlankSiteMvc\Template.zip
+[2021-03-02 12:55:15] Webinstaller\Templates\DancingGoatMvc
+[2021-03-02 12:55:15] C:\Program Files (x86)\Kentico\12.0_1\Webinstaller\Templates\DancingGoatMvc\Template.zip
+[2021-03-02 12:55:17] Projects\BlankSiteMvc
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\Projects\BlankSiteMvc\packages.txt
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\Projects\BlankSiteMvc\project.zip
+[2021-03-02 12:55:17] Projects\CMS
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\Projects\CMS\packages.txt
+[2021-03-02 12:55:17] Projects\DancingGoatMvc
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\Projects\DancingGoatMvc\packages.txt
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\Projects\DancingGoatMvc\project.zip
+[2021-03-02 12:55:17] CodeSamples\APIExamples
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\APIExamples.csproj
+[2021-03-02 12:55:17] CodeSamples\APIExamples\Configuration
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\Configuration\EmailQueue.cs
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\Configuration\Roles.cs
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\Configuration\SmartSearch.cs
+[2021-03-02 12:55:17] CodeSamples\APIExamples\Content management
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\Content management\FormData.cs
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\Content management\Pages.cs
+[2021-03-02 12:55:17] CodeSamples\APIExamples\E-commerce
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\E-commerce\Orders.cs
+[2021-03-02 12:55:17] CodeSamples\APIExamples\On-line marketing
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\On-line marketing\AbTesting.cs
+[2021-03-02 12:55:17] C:\Program Files (x86)\Kentico\12.0_1\CodeSamples\APIExamples\On-line marketing\Contacts.cs
+[2021-03-02 12:55:34] All operations have been successfully finished.
