@@ -12,7 +12,7 @@ For using this widget, you have to create page type with the following fields - 
 Using the widget properties, you can choose path to the parent page, enter page type, choose parent category and add css classes to filter buttons and images. 
 
 For example - you have category "Colors" and child categories "Blue", "Green", "Pink". So, you create pages, assign them to one of these category and you will be able to filter these pages images by its category. For parent category in widget property should be chosen "Colors".
-![Filter by category](Example.png)
+![Filter by category](Example.PNG)
 
 # Contributions, bug fixes and license
 
